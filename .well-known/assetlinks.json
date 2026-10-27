@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ozgemavii.lezzetkasabasi",
+    "sha256_cert_fingerprints": [
+      "0E:23:2F:BC:5A:0B:75:B8:5D:AF:03:68:37:8C:94:CB:25:46:89:20:87:3F:B9:B6:B9:64:40:53:0A:32:3F:B4",
+      "13:5F:1F:E2:8D:FD:0B:52:FF:0B:E9:75:80:27:C6:28:38:E8:6B:9C:24:C5:60:58:CA:31:BB:D3:8B:99:0A:99"
+    ]
+  }
+}]
